@@ -1,12 +1,8 @@
 #  Botanical Harmony - Flower Information Website
 
-![Flower Website Preview](https://images.pexels.com/photos/736230/rose-flower-petal-beauty-736230.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+<img width="1890" height="2731" alt="image" src="https://github.com/user-attachments/assets/264abff0-a0bd-4379-83e3-c9dad462fc22" />
 
 A beautifully crafted, responsive flower encyclopedia website that showcases detailed information about various flowers including their scientific names, seasonal preferences, origins, and symbolic meanings. Built with pure HTML, CSS, and JavaScript.
-
-##  Live Demo
-
-[View Live Demo](#) *(Add your deployment link here - GitHub Pages, Netlify, Vercel, etc.)*
 
 ##  Table of Contents
 
