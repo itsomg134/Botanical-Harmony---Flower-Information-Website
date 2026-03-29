@@ -253,4 +253,14 @@ of this software and associated documentation files...
 
 ##  Contact
 
-documentation for your flower information website, including setup instructions, customization guides, and future enhancement ideas. You can customize the placeholder links, screenshots, and contact information as needed.
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
